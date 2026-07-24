@@ -1,4 +1,4 @@
- Universal Pneumatic Mounting Plate with Perforated Grid (Creo CAD)
+Universal Pneumatic Mounting Plate with Perforated Grid (Creo CAD)
 Overview
 This project contains a **Creo Parametric CAD model** of a **Universal Pneumatic Mounting Plate with a Perforated Grid** designed for flexible mounting and integration of pneumatic components in industrial automation systems.
 The perforated grid structure allows easy positioning and secure attachment of pneumatic devices such as valves, manifolds, regulators, filters, and other control components. The design provides a modular and adaptable platform suitable for prototyping, machine building, and automation applications.
